@@ -1,0 +1,17 @@
+{
+  "name": "SIKU Token Sale",
+  "version": "1.0.0",
+  "description": "SIKU Token Sale ICO",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Sakander Tamoor",
+  "license": "",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
